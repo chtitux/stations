@@ -7444,7 +7444,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8922;Paulhaguet Monument;paulhaguet-monument;8740947;87409474;3.505595;45.21077;10583;f;FR;f;Europe/Paris;t;FRPHG;;t;;f;8705681;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8923;Bourg-Lastic Place de la Poste;bourg-lastic-place-de-la-poste;8740753;;;;;f;FR;f;Europe/Paris;f;FRLSE;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8924;Brassac-les-Mines—Ste-Florine Lycée Rabelais;brassac-les-mines-ste-florine-lycee-rabelais;8739565;87395657;3.324219;45.425729;;f;FR;f;Europe/Paris;t;FRBCH;;t;;f;8705332;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8925;Clermont-Ferrand;clermont-ferrand;8739581;87395814;;;1557;f;FR;f;Europe/Paris;f;FRCWQ;;t;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+8925;Clermont-Ferrand;clermont-ferrand;8739581;87395814;3.1014490127563477;45.777595689825574;1557;f;FR;f;Europe/Paris;f;FRCWQ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8926;Issoire Lycée Deville;issoire-lycee-deville;8739566;87395665;3.267372;45.53244;10683;f;FR;f;Europe/Paris;t;FRIIL;;t;;f;8705342;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;イソワール;;;;Иссуар;;;伊苏瓦尔
 8927;Issoire Lycée Murat;issoire-lycee-murat;8739567;87395673;3.250454;45.555002;10683;f;FR;f;Europe/Paris;t;FRIIN;;t;;f;8705343;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;イソワール;;;;Иссуар;;;伊苏瓦尔
 8928;Le Breuil-sur-Couze Lycée;le-breuil-sur-couze-lycee;8739583;87395830;3.287058;45.458791;10719;f;FR;f;Europe/Paris;t;FRHBM;;t;;f;8705341;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
